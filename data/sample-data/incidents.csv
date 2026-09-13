@@ -1,0 +1,7 @@
+incident_id,asset_id,event_date,event_type,description
+I001,1,2025-07-12,Pothole,Pothole formation after heavy rainfall
+I002,1,2025-12-03,Pothole,Surface deterioration recurring
+I003,2,2025-07-18,Waterlogging,Drain overflow during rainfall
+I004,3,2026-01-10,Cracking,Road surface cracking
+I005,4,2026-02-14,Leakage,Pipeline leakage detected
+I006,1,2026-08-22,Pothole,New deterioration after rainfall
