@@ -1,0 +1,7 @@
+context_id,incident_id,rainfall_mm,season,nearby_failure,previous_repair
+C001,I001,82,Monsoon,Yes,No
+C002,I002,12,Winter,No,Yes
+C003,I003,95,Monsoon,Yes,No
+C004,I004,0,Winter,No,No
+C005,I005,18,Winter,No,No
+C006,I006,76,Monsoon,Yes,Yes
