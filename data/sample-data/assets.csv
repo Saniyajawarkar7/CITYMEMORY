@@ -1,0 +1,6 @@
+asset_id,asset_code,asset_type,location,criticality
+1,R-104,Road,Ward 12,High
+2,D-021,Drain,Ward 12,High
+3,R-118,Road,Ward 8,Medium
+4,P-033,Pipeline,Ward 8,High
+5,S-014,Streetlight,Ward 5,Low
