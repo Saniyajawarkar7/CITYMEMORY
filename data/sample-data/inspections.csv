@@ -1,0 +1,7 @@
+inspection_id,asset_id,inspection_date,condition,notes
+IN001,1,2025-07-13,Poor,Pothole depth increased after rainfall
+IN002,1,2025-12-04,Fair,Recurring surface deterioration observed
+IN003,2,2025-07-19,Poor,Drain capacity appears insufficient
+IN004,3,2026-01-11,Fair,Surface cracks observed
+IN005,4,2026-02-15,Poor,Leakage confirmed
+IN006,1,2026-08-23,Poor,New deterioration requires inspection
