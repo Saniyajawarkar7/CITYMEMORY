@@ -1,0 +1,4 @@
+.leaflet-map{height:410px;width:100%;z-index:0}
+.map-label,.map-key{z-index:500!important}
+.leaflet-popup-content{font:12px/1.5 Inter,ui-sans-serif,system-ui,sans-serif;color:#32423f}
+@media(max-width:650px){.leaflet-map{height:300px}}
