@@ -1,0 +1,7 @@
+outcome_id,intervention_id,outcome_date,result,stability_months
+O001,IV001,2025-12-01,Failure recurred,4
+O002,IV002,2026-05-10,Failure recurred,5
+O003,IV003,2026-07-25,Stable,12
+O004,IV004,2026-08-20,Stable,7
+O005,IV005,2026-08-20,Stable,6
+O006,IV006,2026-09-05,Under observation,0
